@@ -7,6 +7,7 @@ entered by sb
 ## and one
 from swb
 
+# Versuche mit *Mermaid*
 
 ```mermaid
 graph TD;
